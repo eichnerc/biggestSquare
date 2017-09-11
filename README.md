@@ -12,6 +12,7 @@ density = density of obstacles in the map
 
 test_map_01 = the name of the file in which you want to create the map
 
+
 Then execute :
 
 1) go build
